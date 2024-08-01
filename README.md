@@ -10,8 +10,8 @@
 
 ## Introduction
 
-Welcome! This repository contains a comprehensive guide on installing an open.mp server.<br>
-Whether you're a beginner or just looking to refresh your knowledge, this guide has something for you.
+Welcome! This repository contains a comprehensive guide on installing an open.mp server on Ubuntu or another Debian based Linux.<br>
+Whether you're a beginner or just looking to refresh your knowledge, this guide should have something for you.
 
 <br>
 
