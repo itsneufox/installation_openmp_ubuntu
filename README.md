@@ -1,11 +1,11 @@
 <a href="https://www.open.mp"><img src="https://raw.githubusercontent.com/adib-yg/openmp-server-installation/main/screenshots/open-mp-logo.png" width="128" height="128" align="left"></a><h1>open.mp Server Installation on Ubuntu</h1>
 
-**Tutorial for those who want to start their gamemode on open.mp server.**
+**Guide for those who want to start their gamemode on open.mp server.**
 
 <br>
 
 > [!NOTE] 
-> *If you are using the SA:MP server and didn't convert to open.mp yet, [please stop here and read this tutorial](https://github.com/adib-yg/openmp-server-installation)!*
+> *If you are using the SA:MP server and didn't convert to open.mp yet, [please stop here and read this guide](https://github.com/adib-yg/openmp-server-installation)!*
 
 > [!NOTE] 
 > *If you are using the FCNPC plugin, please stop for now because this plugin does not work for open.mp currently.<br>
@@ -14,11 +14,11 @@
 ## Introduction
 
 Welcome! This repository contains a comprehensive guide on installing an open.mp server.<br>
-Whether you're a beginner or just looking to refresh your knowledge, this tutorial has something for you.
+Whether you're a beginner or just looking to refresh your knowledge, this guide has something for you.
 
 
 ## Prerequisites
-Before starting this tutorial, you should have:
+Before starting this guide, you should have:
 - A machine running Ubuntu (20.04 or later recommended);
 - Filezilla or WinSCP for file transfers;
 - PuTTY or your hosting SSH solution;
@@ -78,7 +78,7 @@ I call it that because we are only using terminal to do the job!
 wget https://github.com/openmultiplayer/open.mp/releases/download/v1.2.0.2670/open.mp-linux-x86.tar.gz
 ```
 > [!NOTE] 
-> *In this tutorial we are downloading the static version!<br>
+> *In this guide we are downloading the static version!<br>
 > Check the latest version marked with a green tag saying "Latest" [here](https://github.com/openmultiplayer/open.mp/releases), then right click the intended file and copy the link!*
 
    - Extract the downloaded files
@@ -98,7 +98,7 @@ You know why i call it that... I think...
   
   - Download the file called "open.mp-linux-x86.tar.gz";
 > [!NOTE] 
-> *In this tutorial we are downloading the static version!*
+> *In this guide we are downloading the static version!*
 
   - Use 7zip or your zip manager of choice and unzip the file downloaded;
   - Open Filezilla or WinSCP and drop the folder "Server" inside the folder of the user you created in **Part A**
