@@ -1,6 +1,5 @@
-<a href="https://www.open.mp"><img src="https://raw.githubusercontent.com/adib-yg/openmp-server-installation/main/screenshots/open-mp-logo.png" width="128" height="128" align="left"></a><h1>open.mp Server Installation on Debian based Linux</h1>
-
-**Guide for those who want to start an open.mp server on Debian based Linux.**
+<a href="https://www.open.mp"><img src="https://raw.githubusercontent.com/adib-yg/openmp-server-installation/main/screenshots/open-mp-logo.png" width="128" height="128" align="left"></a><h1>open.mp Server Installation (Debian based Linux)</h1>
+**A guide for those who want to start an open.mp server on Debian based Linux.**
 
 <br>
 
