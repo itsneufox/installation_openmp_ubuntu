@@ -1,15 +1,11 @@
-<a href="https://www.open.mp"><img src="https://raw.githubusercontent.com/adib-yg/openmp-server-installation/main/screenshots/open-mp-logo.png" width="128" height="128" align="left"></a><h1>open.mp Server Installation (Debian based Linux)</h1>
-**A guide for those who want to start an open.mp server on Debian based Linux.**
-
+<a href="https://www.open.mp"><img src="https://raw.githubusercontent.com/adib-yg/openmp-server-installation/main/screenshots/open-mp-logo.png" width="128" height="128" align="left"></a><h1>open.mp Server Installation<br>(All Debian based Linux)</h1>
 <br>
-
 > [!NOTE] 
 > *If you are using the SA:MP server and didn't convert to open.mp yet, [please stop here and read this guide](https://github.com/adib-yg/openmp-server-installation)!*
 
 > [!NOTE] 
 > *If you are using the FCNPC plugin, please stop for now because this plugin does not work for open.mp currently.<br>
 > But not for long! [You can help with a donation here on the Open Collective!](https://opencollective.com/openmultiplayer)*
-
 <br>
 
 ## Introduction
