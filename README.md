@@ -11,11 +11,14 @@
 > *If you are using the FCNPC plugin, please stop for now because this plugin does not work for open.mp currently.<br>
 > But not for long! [You can help with a donation here on the Open Collective!](https://opencollective.com/openmultiplayer)*
 
+<br>
+
 ## Introduction
 
 Welcome! This repository contains a comprehensive guide on installing an open.mp server.<br>
 Whether you're a beginner or just looking to refresh your knowledge, this guide has something for you.
 
+<br>
 
 ## Prerequisites
 Before starting this guide, you should have:
