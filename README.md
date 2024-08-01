@@ -1,6 +1,6 @@
-<a href="https://www.open.mp"><img src="https://raw.githubusercontent.com/adib-yg/openmp-server-installation/main/screenshots/open-mp-logo.png" width="128" height="128" align="left"></a><h1>open.mp Server Installation on Ubuntu</h1>
+<a href="https://www.open.mp"><img src="https://raw.githubusercontent.com/adib-yg/openmp-server-installation/main/screenshots/open-mp-logo.png" width="128" height="128" align="left"></a><h1>open.mp Server Installation on Debian based Linux</h1>
 
-**Guide for those who want to start their gamemode on open.mp server.**
+**Guide for those who want to start an open.mp server on Debian based Linux.**
 
 <br>
 
@@ -22,15 +22,18 @@ Whether you're a beginner or just looking to refresh your knowledge, this guide 
 
 ## Prerequisites
 Before starting this guide, you should have:
-- A machine running Ubuntu (20.04 or later recommended);
+- A machine running Ubuntu (20.04 or later recommended) or another Debian based Linux;
 - Filezilla or WinSCP for file transfers;
-- PuTTY or your hosting SSH solution;
+- PuTTY or your hosting SSH solution;<br>
+> [!NOTE] 
+> *If you install WinSCP, the installer will prompt you to install PuTTY!<br>
+> It's up to you if you want to install it or not, but you can always download it later!*
   
 <br>
 
 ## Part A - Connect, update and create user
 
-### Step 1 - Open PuTTY or your hosting SSH solution and connect to your Ubuntu instance
+### Step 1 - Open PuTTY or your hosting SSH solution and connect to your  instance
 > [!NOTE] 
 > *There are compreensive guides on the web or even your hosting solution website on how to connect via PuTTY.<br>
 > Some SSH connections need a key, so i can't provide any help here, but feel free to ask on open.mp discord or search the web!*
