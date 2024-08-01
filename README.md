@@ -193,6 +193,6 @@ If you have issues with the server or this guide, [please join the official open
 <br>
 
 # Final words
-I hope this guide was useful for you!<br>If you feel anything wrong with this guide, please feel free to ping me @itsneufox on [the official open.mp Discord server](https://discord.gg/samp) and let me know!<br>
+If you feel anything wrong with this guide, please feel free to ping me @itsneufox on [the official open.mp Discord server](https://discord.gg/samp) and let me know!<br>
 
 ### Thanks to the open.mp team for their awesome work and their effort to keep this community alive!
