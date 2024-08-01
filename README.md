@@ -1,4 +1,4 @@
-<a href="https://www.open.mp"><img src="https://raw.githubusercontent.com/adib-yg/openmp-server-installation/main/screenshots/open-mp-logo.png" width="128" height="128" align="left"></a><h1>open.mp Server Installation<br>(All Debian based Linux)</h1>
+<a href="https://www.open.mp"><img src="https://raw.githubusercontent.com/adib-yg/openmp-server-installation/main/screenshots/open-mp-logo.png" width="128" height="128" align="left"></a><h1>Easy open.mp Server Installation<br>(All Debian based Linux)</h1>
 <br>
 > [!NOTE] 
 > *If you are using the SA:MP server and didn't convert to open.mp yet, [please stop here and read this guide](https://github.com/adib-yg/openmp-server-installation)!*
