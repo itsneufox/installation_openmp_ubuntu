@@ -83,7 +83,7 @@ wget https://github.com/openmultiplayer/open.mp/releases/download/v1.2.0.2670/op
 
    - Extract the downloaded files
 ```sh
-tar -xzf samp037_svr_R2-1.tar.gz
+tar -xzf open.mp-linux-x86.tar.gz
 ```
    - Navigate to the extracted directory
 ```sh
