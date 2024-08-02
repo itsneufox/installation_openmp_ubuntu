@@ -35,7 +35,7 @@ Before starting this guide, you should have:
 
 <br>
 
-### Step 2 - Updating your Ubuntu instance
+### Step 2 - Updating your Linux instance
   - Let's ensure that your system is up-to-date:
 ```sh
 sudo apt update
@@ -74,7 +74,7 @@ chmod 775 /home/MyUserName
 
 ### The blind way:
 I call it that because we are only using terminal to do the job!
-  - Use **wget** to download the files from the open.mp repository
+  - Use **wget** to download the files from the open.mp repository:
 ```sh
 wget https://github.com/openmultiplayer/open.mp/releases/download/v1.2.0.2670/open.mp-linux-x86.tar.gz
 ```
@@ -82,11 +82,11 @@ wget https://github.com/openmultiplayer/open.mp/releases/download/v1.2.0.2670/op
 > *In this guide we are downloading the static version!<br>
 > Check the latest version marked with a green tag saying "Latest" [here](https://github.com/openmultiplayer/open.mp/releases), then right click the intended file and copy the link!*
 
-   - Extract the downloaded files
+   - Extract the downloaded files:
 ```sh
 tar -xzf open.mp-linux-x86.tar.gz
 ```
-   - Navigate to the extracted directory
+   - Navigate to the extracted directory:
 ```sh
 cd Server
 ```
@@ -102,7 +102,7 @@ You know why i call it that... I think...
 > *In this guide we are downloading the static version!*
 
   - Use 7zip or your zip manager of choice and unzip the file downloaded;
-  - Open Filezilla or WinSCP and drop the folder "Server" inside the folder of the user you created in **Part A**
+  - Open Filezilla or WinSCP and drop the folder "Server" inside the folder of the user you created in **Part A**.
   
 <br>
 
@@ -170,7 +170,7 @@ top
 ```
 MyNumberHere | MyUserName | 00 | 0 | 00 | 00 | 00 | S | 0.0  | 0.0 | 0:00.00 | omp-server
 ```
-  - Write it down or memorize it and then do:
+  - Write it down or memorize it, press 'Q' in your keyboard to exit and then do:
 ```sh
 sudo kill MyNumberHere
 ```
@@ -179,10 +179,10 @@ sudo kill MyNumberHere
 
 ## Part D - Uploading your own gamemode and files
 
-- Visit [this guide](https://github.com/adib-yg/openmp-server-installation) to understand how to transfer your files from your server to your Ubuntu instance.
+- Visit [this guide](https://github.com/adib-yg/openmp-server-installation) to understand how to transfer your files from your server to your Linux instance.
 
 > [!NOTE] 
-> *Don't forget that Ubuntu can't read .dll files, always download the .so counterparts!*
+> *Don't forget that Linux can't read .dll files, always download the .so counterparts!*
 
 <br>
 <br>
