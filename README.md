@@ -195,5 +195,5 @@ For any issues related to the server or this guide, [please join the official op
 If you notice any inaccuracies or have suggestions regarding this guide, feel free to reach out to me @itsneufox on [the official open.mp Discord server](https://discord.gg/samp). I appreciate your feedback!
 
 
-### A big thank you to Vince0789 for raising important security concerns and assisting in enhancing the security practices in this guide!
+### A big thank you to Vince0789, Mido and others for raising important security concerns and assisting in enhancing the security practices in this guide!
 ### Additionally, thanks to the open.mp team for their incredible work and dedication!
