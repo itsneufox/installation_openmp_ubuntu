@@ -109,7 +109,8 @@ Before starting, you should have:
    ```
 
 > [!NOTE] 
-> You should check for the latest release at the open.mp GitHub Releases page: https://github.com/openmultiplayer/open.mp/releases.
+> You should check for the latest release at the open.mp GitHub Releases page:
+> https://github.com/openmultiplayer/open.mp/releases.
 
 9. Extracting the server files:
    - Once downloaded, extract the files:
